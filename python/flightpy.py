@@ -69,5 +69,6 @@ def capturePhoto():
 	#else write error message	
 	#return
 
-main()
+if __name__ == '__main__':
+	main()
 	
